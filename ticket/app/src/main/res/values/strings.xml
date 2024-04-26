@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ticket</string>
+    <string-array name="gender_array">
+        <item>男性</item>
+        <item>女性</item>
+    </string-array>
+
+    <string-array name="ticket_type_array">
+        <item>兒童票</item>
+        <item>成人票</item>
+        <item>學生票</item>
+    </string-array>
+    <string name="result_text">性别：%1$s\n票种：%2$s\n总价格：%3$d</string>
+</resources>
