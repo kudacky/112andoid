@@ -12,3 +12,16 @@
     </string-array>
     <string name="result_text">性别：%1$s\n票种：%2$s\n总价格：%3$d</string>
 </resources>
+
+<!--<resources>-->
+<!--    <string name="app_name">BuyTickets2024</string>-->
+<!--    <string name="male">Male</string>-->
+<!--    <string name="female">Female</string>-->
+<!--    <string name="regularticket">Regular Ticket</string>-->
+<!--    <string name="childticket">Children Ticket</string>-->
+<!--    <string name="studentticket">Student Ticket</string>-->
+<!--    <string name="confirm">Confirm</string>-->
+<!--    <string name="numberOfTickets">count </string>-->
+<!--    </resources>-->
+
+
